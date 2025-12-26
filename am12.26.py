@@ -100,4 +100,3 @@ with col2:
 # 原始数据表格
 st.header("原始数据")
 st.dataframe(filtered_df)
-
